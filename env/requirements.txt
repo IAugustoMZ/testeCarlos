@@ -7,5 +7,3 @@ numpy==1.20.3
 pandas==1.5.2
 plotly==5.11.0
 pycaret==2.3.10
-scikit-learn==0.23.2
-os
